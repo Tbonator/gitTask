@@ -1,3 +1,3 @@
-message = input("Enter Mesaage: ")
+message = input("Enter Mesaage all: ")
 
 print(f"message is :  {message}")
